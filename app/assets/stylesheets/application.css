@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: azure;
+  border-bottom: 0.5px solid grey;
+  padding: 15px;
+  margin: 20px;
+}
