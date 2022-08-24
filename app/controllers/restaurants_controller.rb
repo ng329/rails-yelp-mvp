@@ -18,6 +18,10 @@ class RestaurantsController < ApplicationController
     end
   end
 
+  def show
+    @review = Review.new
+  end
+
   private
 
   def restaurant_params
