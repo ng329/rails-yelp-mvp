@@ -17,8 +17,8 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  background-color: azure;
+  background-color: rgb(199, 187, 147);
   border-bottom: 0.5px solid grey;
   padding: 15px;
-  margin: 20px;
+  /* margin: 20px; */
 }
